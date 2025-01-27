@@ -98,11 +98,3 @@ If you encounter any issues:
 2. Ensure all environment variables are correctly set
 3. Check that no other applications are using ports 8000 or 3000
 4. Confirm that all dependencies were installed correctly using pnpm
-
-## Need Help?
-
-If you encounter any problems during setup, please open an issue in the GitHub repository with:
-
-- The step where you encountered the issue
-- Any error messages you received
-- Your operating system and environment details
